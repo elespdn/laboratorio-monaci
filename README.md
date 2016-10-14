@@ -19,4 +19,5 @@ Il laboratorio sarà essenzialmente pratico, è aperto agli studenti di triennal
 I materiali saranno qui raccolti e distribuiti man mano agli studenti.
 
 ### Contatti
-Per qualsiasi informazione scrivere a  *elena.spadini@huygens.knaw.nl*
+Dr. Elena Spadini *elena.spadini@huygens.knaw.nl*
+Prof. Arianna Punzi *arianna.punzi@uniroma1.it*
