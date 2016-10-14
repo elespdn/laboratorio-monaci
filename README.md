@@ -18,5 +18,5 @@ Il laboratorio sarà essenzialmente pratico, è aperto agli studenti di triennal
 ### Materiali
 I materiali saranno qui raccolti e distribuiti man mano agli studenti.
 
-
-
+### Contatti
+Per qualsiasi informazione scrivere a  *elena.spadini@huygens.knaw.nl*
