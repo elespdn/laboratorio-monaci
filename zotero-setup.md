@@ -40,7 +40,8 @@ Se apriamo, dopo essere diventati membri del gruppo, la versione Standalone di Z
 
 Per inserire una nuova fonte nella biblioteca del gruppo (*groups library*)
 
-- entrare nella biblioteca del gruppo, cliccando su 'laboratorio-monaci'
+- aprire Zotero Standalone sul proprio computer
+- entrare nella biblioteca del gruppo, cliccando su 'laboratorio-monaci' (a sinistra)
 - per creare un nuovo elemento
 	- cliccare sul bottone verde **+** (o dal menu File --> nuovo elemento *new item*)
 	- scegliere l'elemento adatto tra 
