@@ -8,8 +8,9 @@ Sapienza Università di Roma - Tirocinio/Altre attività - Laboratorio Monaci
 - Insegnante: Elena Spadini
 
 ### Quando e dove
-- Martedì 17h-19h, fino a Natale. 15 ore di lezione frontare, 35 lavoro individuale
-- Aula 2 Dipartimento di Studi Europei. Facoltà di Lettere, terzo piano.
+- Martedì 17h-19h
+- Dal 22 novembre al 20 dicembre
+- Aula 2 Dipartimento di Studi Europei. Facoltà di Lettere, terzo piano 
 
 ### Programma 
 Si presenteranno la figura di Ernesto Monaci e i materiali raccolti nel suo epistolario. Si fornirà quindi un'introduzione alle tecniche di edizione elettronica. Ognuno dei partecipanti sceglierà un documento, ovvero una lettera in italiano o in un'altra lingua, sulla quale lavorare e eseguirà la trascrizione e la codifica, con il supporto dell'insegnante. I testi saranno poi raccolti e inseriti in una base-dati, a partire dalla quale sarà elaborata un'applicazione web, primo passo verso un'edizione completa dell'epistolario di Ernesto Monaci.

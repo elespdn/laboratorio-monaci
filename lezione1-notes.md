@@ -43,8 +43,7 @@ martedì 22 novembre 2016
 - Portare il proprio portatile martedì 29
 
 #### Elena Spadini
-- elena.spadini@huygens.knaw.nl
-- [huygens.knaw.nl/elena-spadini/](https://www.huygens.knaw.nl/elena-spadini/)
+- elena.spadini@huygens.knaw.nl ([huygens.knaw.nl/elena-spadini/](https://www.huygens.knaw.nl/elena-spadini/))
 
 
 
