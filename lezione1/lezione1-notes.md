@@ -29,9 +29,14 @@ martedì 22 novembre 2016
 
 ### Introduzione a XML-TEI
 
+- [Intro TEI](https://elespdn.github.io/labMonaci1-xmlTei.html#/) per Laboratorio Monaci
+
+Altri materiali, per approfondire:
+
 - [An introduction to Markup, XML, TEI, and the oXygen XML editor](https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/), di James Cummings
 - [Encoding texts. Markup, XML and oXygen](http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Elena_Pierazzo_and_Arianna_Ciula_-_Encoding_Texts.pdf), di Elena Pierazzo e Arianna Ciula
 - [Markup, XML, TEI](http://editio.github.io/slides/xml-tei#/portada), di José Luis Losada Palenzuela
+- [TEI By Example](http://teibyexample.org/)
 
 ### Compiti (per martedì 29 novembre)
 
