@@ -49,6 +49,7 @@ Per inserire una nuova fonte nella biblioteca del gruppo (*groups library*)
 		- Articolo di periodico specializzato / *Journal Article*
 		- Paragrafo di libro / *Book section*
 	- riempire i campi
+- una volta inserito il nuovo elemento bibliografico, sincronizzare (freccetta verde a destra)
 
 Nota: nella cartella c'è un esempio di ogni tipo di elemento: *book* (icona libro chiuso), *journal article* (icona foglio), *book section* (icona libro aperto). Consideriamo gli Atti dei convegni come *book*.
 
@@ -74,10 +75,11 @@ Nota: nella cartella c'è un esempio di ogni tipo di elemento: *book* (icona lib
 16. Formisano, Luciano. «Alle origini del lachmannismo romanzo». *Annali della scuola Normale Superiore di Pisa*, III, 9, (1979), pp. 247-97.
 
 ### Dubbi sulla bibliografia?
-Cercare la fonte in
+Cercare il libro o il periodico in
 
 - WorldCat.org <http://www.worldcat.org/>
 - Catalogo del Servizio Bibliotecario Nazionale, opac.sbn.it <http://opac.sbn.it/opacsbn/opac/iccu/base.jsp>
+- Google Scholar <http://scholar.google.com>
 
 ---
 
