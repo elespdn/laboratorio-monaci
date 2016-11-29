@@ -5,7 +5,7 @@ Sapienza Università di Roma - Tirocinio/Altre attività - Laboratorio Monaci
 - Semestre: Primo semestre
 - Tipo attività: Altre attività formative
 - CFU: 2
-- Insegnante: Elena Spadini
+- Docente: Elena Spadini
 
 ### Quando e dove
 - Martedì 17h-19h
@@ -21,6 +21,14 @@ I materiali saranno qui raccolti e distribuiti man mano agli studenti.
 
 ### Contatti
 Dr. Elena Spadini *elena.spadini@huygens.knaw.nl*<br/>Prof. Arianna Punzi *arianna.punzi@uniroma1.it*
+
+### Ricevimento
+Prima della lezione. Contattare la docente per mail.
+
+---
+
+### Bibliografia Zotero
+La bibliografia su Monaci e per la codifica delle lettere è raccolta collaborativamente durante il corso nel gruppo Laboratorio Monaci in Zotero, consultabile alla pagina <https://www.zotero.org/groups/laboratorio-monaci>
 
 ### GoogleGroups
 La mailing list del corso è consultabile all'indirizzo <https://groups.google.com/forum/#!forum/laboratorio-monaci-2016>.

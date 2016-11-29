@@ -3,6 +3,7 @@ martedì 29 novembre 2016
 
 ### Creazione di un documento TEI/XML
 - Tutorial <http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/oxygen-exercise/oxygen-exercise.xml> (da [DHOXSS 2015](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/))
+- Soluzione dell'esercizio (sonetto codificato) [qui](https://github.com/elespdn/laboratorio-monaci/tree/master/lezione2/sonetto-TEI.xml).
 
 ### Ernesto Monaci e la Rivista di Filologia Romanza
 [da Ruggieri 1969] Cronologia delle più antiche riviste europee dedicate alla romanistica (dal 1870 alla fine del secolo)
@@ -15,15 +16,6 @@ martedì 29 novembre 2016
 - 1881 *Romanische Forschungen* di Vollmöller
 - 1883 *Giornale Storico della Letteratura Italiana* di Graf, Renier e poi di Navati
 
-### Collezioni di edizioni digitali di lettere e strumenti per la visualizzazione
-- [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home)
-	- Esempio: [The Correspondence of Peter Paul Rubens ](http://emlo.bodleian.ox.ac.uk/blog/?catalogue=peter-paul-rubens)
-	- Esempio: [Women's correspondences](http://emlo.bodleian.ox.ac.uk/forms/advanced?people_gend=female)
-- [CorrespSearch: Search scholarly editions of letters](http://correspsearch.net/data.xql?l=en)
-- [Mapping the Republic of Letters](http://republicofletters.stanford.edu/index.html)
-- [visual correspondence - Analysing Letters through Data Visualisation](http://letters.nialloleary.ie/) 
-	- Esercizio. Come visualizzare i dati? Scegliere tra 26 possibilità (5 gruppi). <http://letters.nialloleary.ie/index.php?letters_function=1>
-- [Encyclopedia of Romantic Nationalism in Europe](http://romanticnationalism.net/viewer.p/21/59)
 
 ### Compiti (per martedì 6 dicembre)
 
