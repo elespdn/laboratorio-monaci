@@ -29,7 +29,7 @@ martedì 22 novembre 2016
 
 ### Introduzione a XML-TEI
 
-- [Intro TEI](https://elespdn.github.io/labMonaci1-xmlTei.html#/) per Laboratorio Monaci
+- [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/) per Laboratorio Monaci
 
 Altri materiali, per approfondire:
 
