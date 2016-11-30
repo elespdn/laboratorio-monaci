@@ -16,6 +16,16 @@ martedì 29 novembre 2016
 - 1881 *Romanische Forschungen* di Vollmöller
 - 1883 *Giornale Storico della Letteratura Italiana* di Graf, Renier e poi di Navati
 
+### Monaci e ...
+- la conversione letteraria
+- la didattica
+- gli allievi
+- i dialetti
+- il teatro
+- l'Archivio Paleografico Latino
+- l'Istituto Storico Italiano
+- corrispondenti
+
 
 ### Compiti (per martedì 6 dicembre)
 
