@@ -8,7 +8,7 @@ martedì 6 dicembre 2016
 ### TEI Guidelines
 - moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
 - schema, vd. tutorial su [ODD e Schema](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione3/schema.md)
-- guardiamo da vicino un elemento e la relativa documentazione: <author\> [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
+- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
 	
 ### Intro a ..
 - Meyer e Romania, vd. [scheda](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione3/meyer_romania.md)
@@ -17,13 +17,13 @@ martedì 6 dicembre 2016
 
 ### Codifica delle lettere: metadati e struttura del testo
 - Vd. slides [*TEI for Correspondence*](https://drive.google.com/file/d/0B_1qUxvG29kvekJDZzQzZ1JZT0E/view) (DHOxSS 2016), di Sabine Seifert e Peter Stadler
-- guardiamo da vicino un elemento e la relativa documentazione: <opener\> [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
+- guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
 
 ### Codifica delle lettere: named entities
-- <persName\>
-- <placeName\>
-- <orgName\>
-- <date\>
+- < persName >
+- < placeName >
+- < orgName >
+- < date >
 
 ### Collezioni di edizioni digitali di lettere e strumenti per la visualizzazione
 - [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home)
@@ -41,8 +41,8 @@ Codificare la propria lettera. Come?
 
 - aprire oXygen
 - creare un file TEIP5-All (come abbiamo visto nella lezione 2, istruzioni [qui](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/oxygen-exercise/oxygen-exercise.xml))
-- cancellare il paragrafo <p\> all'interno del <body\> e sostituirlo con un <div\>
-- all'interno del <div\> incollare il testo della lettera
+- cancellare il paragrafo < p > all'interno del < body > e sostituirlo con un < div >
+- all'interno del < div > incollare il testo della lettera
 - codificare il testo, seguendo i materiali del corso e l'esempio di una [lettera  già codificata](18732211-monaci-ascoli.xml)
 - salvare il file
 - copiarlo su una pennetta USB
