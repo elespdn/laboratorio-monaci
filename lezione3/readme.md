@@ -38,7 +38,7 @@ Dates*](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/Talks/4-name-place-date.pdf)
 - [visual correspondence - Analysing Letters through Data Visualisation](http://letters.nialloleary.ie/)
 - [Encyclopedia of Romantic Nationalism in Europe](http://romanticnationalism.net/viewer.p/21/59)
 
-### Compiti
+### Compiti per martedì 13 dicembre
 #### 1
 Codificare la propria lettera. Come?
 
@@ -56,4 +56,5 @@ Controllare e se necessario cambiare le informazioni inserite nel [gDoc](https:/
 - sezione TAG, immaginando che esse siano le parole chiave che permetteranno la ricerca delle lettere in una base-dati o sito web
 - sezione ALTRE INFO, inserendo persone, luoghi, istituzioni, titoli e date che si codificano
 
-
+#### 3
+Correggere entrate in Zotero, se necessario.
