@@ -57,7 +57,7 @@ Proviamo a cambiare lo schema, associando ad esempio lo schema **tei\_lite**. Sa
 
 **tei\_all.rng** adnrà dunque cambiato in **tei\_lite.rng**
 
-Si noterà che il quadratino verde diventerà rosso: c'è qualche problema! Quale? L'elemento <rhyme\> (e anche l'attributo @rhyme in <lg\>) **non** sono ammissibili nello schema **tei\_lite**. 
+Si noterà che il quadratino verde diventerà rosso: c'è qualche problema! Quale? L'elemento < rhyme > (e anche l'attributo @rhyme in < lg >) **non** sono ammissibili nello schema **tei\_lite**. 
 
 ### Perché utilizzare uno schema. Conclusione
 
