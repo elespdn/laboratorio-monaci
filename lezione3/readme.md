@@ -20,6 +20,9 @@ martedì 6 dicembre 2016
 - guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
 
 ### Codifica delle lettere: named entities
+Vd. slides [*Encoding Names, People, Places and
+Dates*](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/Talks/4-name-place-date.pdf)
+
 - < persName >
 - < placeName >
 - < orgName >
@@ -43,9 +46,10 @@ Codificare la propria lettera. Come?
 - creare un file TEIP5-All (come abbiamo visto nella lezione 2, istruzioni [qui](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/oxygen-exercise/oxygen-exercise.xml))
 - cancellare il paragrafo < p > all'interno del < body > e sostituirlo con un < div >
 - all'interno del < div > incollare il testo della lettera
-- codificare il testo, seguendo i materiali del corso e l'esempio di una [lettera  già codificata](18732211-monaci-ascoli.xml)
+- codificare il testo, seguendo i materiali del corso e l'esempio di una [lettera  già codificata](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione3/18731122-monaci-ascoli.xml)
 - salvare il file
 - copiarlo su una pennetta USB
+
 #### 2
 Controllare e se necessario cambiare le informazioni inserite nel [gDoc](https://docs.google.com/document/d/1a3w2RD7FX7GnFAryNSVaasCrAWV5DQj_bd0IqmV2Wt4/edit):
 
