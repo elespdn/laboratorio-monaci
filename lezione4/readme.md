@@ -43,9 +43,9 @@ Sul documento originale controlliamo (10 minuti per ognuno):
 
 ### Task 2
 
-Titolo: **La *Rivista di filologia romanza*, I (1872)**. 
+Titolo: **La *Rivista di filologia romanza*, II (1875)**. 
 
-Copiare l'indice, un articolo sotto l'altro, indicando autore, titolo.
+Immagini [qui](images). Copiare l'indice, un articolo sotto l'altro, indicando pagina (poi spazio *Tab*), autore (in maiuscolo), titolo.
 
 Gruppo: Martina d'Arcangelo, Sabrina Artale, Daniele De Sanctis
 
@@ -76,6 +76,11 @@ Gruppo: Arianna Calcagnini, Veronica Aurizi, Marta Carpicei
 
 
 ---
+
+Inserire tutto nel [googleDoc](https://docs.google.com/document/d/1a3w2RD7FX7GnFAryNSVaasCrAWV5DQj_bd0IqmV2Wt4/edit) (attenzione agli Stili, come Titolo, Intestazione 1, Intestazione 2, etc.; si accede alla Struttura del documento dal menu Strumenti).
+
+---
+
 
 ## Metadata su persone, luoghi, organizzazioni
 
