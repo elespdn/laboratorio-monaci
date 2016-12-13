@@ -45,7 +45,7 @@ Sul documento originale controlliamo (10 minuti per ognuno):
 
 Titolo: **La *Rivista di filologia romanza*, II (1875)**. 
 
-Immagini [qui](images). Copiare l'indice, un articolo sotto l'altro, indicando pagina (poi spazio *Tab*), autore (in maiuscolo), titolo.
+Immagini: [uno](https://github.com/elespdn/laboratorio-monaci/raw/master/lezione4/images/rfr1875_1.png) e [due](https://github.com/elespdn/laboratorio-monaci/raw/master/lezione4/images/rfr1875_2.png). Copiare l'indice, un articolo sotto l'altro, indicando pagina (poi spazio *Tab*), autore (in maiuscolo), titolo.
 
 Gruppo: Martina d'Arcangelo, Sabrina Artale, Daniele De Sanctis
 
