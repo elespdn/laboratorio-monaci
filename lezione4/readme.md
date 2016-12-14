@@ -192,9 +192,9 @@ Collegare nomi e metadati permette di risalire alla forma standard del nome, com
 ## Condividere
 Ognuno deve copiare la persona e il luogo codificato nel [google Doc](https://docs.google.com/document/d/1a3w2RD7FX7GnFAryNSVaasCrAWV5DQj_bd0IqmV2Wt4/edit).
 
-## Compiti
+## Compiti per martedì 20 dicembre
 
-- Inserire i metadati degli altri luoghi e persone menzionati nella lettera o nella sezione dell'Header dedicata alla corrispondenza; si possono utilizzare i dati del google Doc, se qualcuno ha già codificato una persona o un luogo menzionato nella nostra lettera. 
+- Inserire i metadati degli altri luoghi e persone menzionati nella lettera e menzionati nella sezione dell'Header dedicata alla corrispondenza (< correspDesc >); si possono utilizzare i dati del google Doc, se qualcuno ha già codificato una persona o un luogo menzionato nella nostra lettera. 
 - Collegare i nomi con i metadati.
 
 ### Esempio
