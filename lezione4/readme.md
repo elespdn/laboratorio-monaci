@@ -199,7 +199,7 @@ Ognuno deve copiare la persona e il luogo codificato nel [google Doc](https://do
 
 ### Esempio
 
-Una lettera codificata [da visualizzare su Github](18731122-monaci-ascoli-nomi.xml) o [da scaricare](https://raw.githubusercontent.com/elespdn/laboratorio-monaci/master/lezione4/18731122-monaci-ascoli-nomi.xml), per poi aprirla in oXygen.
+Una lettera codificata [qui](18731122-monaci-ascoli-nomi.xml).
 
 
 
