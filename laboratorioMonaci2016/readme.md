@@ -1,4 +1,6 @@
-# laboratorio-monaci
+# Laboratorio Monaci 2016
+<img src="info/logo-sapienza.png" width="30%">
+
 Sapienza Università di Roma - Tirocinio/Altre attività - Laboratorio Monaci
 
 ### Info
