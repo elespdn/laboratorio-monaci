@@ -1,7 +1,19 @@
 # Laboratorio Monaci 2016
 <img src="info/logo-sapienza.png" width="30%">
 
-Sapienza Università di Roma - Tirocinio/Altre attività - Laboratorio Monaci
+Tirocinio/Altre attività - Laboratorio Monaci
+
+## Lezioni
+
+### [Lezione 1](https://github.com/elespdn/laboratorio-monaci/tree/master/laboratorioMonaci2016/lezione1)
+
+### [Lezione 2](https://github.com/elespdn/laboratorio-monaci/tree/master/laboratorioMonaci2016/lezione2)
+
+### [Lezione 3](https://github.com/elespdn/laboratorio-monaci/tree/master/laboratorioMonaci2016/lezione3)
+
+### [Lezione 4](https://github.com/elespdn/laboratorio-monaci/tree/master/laboratorioMonaci2016/lezione4)
+
+---
 
 ### Info
 - Semestre: Primo semestre
@@ -46,11 +58,4 @@ Tutti i documenti saranno organizzati in una base-dati, a partire dalla quale sa
 
 ---
 
-## Lezioni
-
-### [Lezione 1](https://github.com/elespdn/laboratorio-monaci/tree/master/lezione1)
-
-### [Lezione 2](https://github.com/elespdn/laboratorio-monaci/tree/master/lezione2)
-
-### [Lezione 3](https://github.com/elespdn/laboratorio-monaci/tree/master/lezione3)
  
