@@ -54,7 +54,7 @@ L’archivio di Ernesto Monaci è conservato dalla Società Filologica Romana, c
 
 La pubblicazione elettronica è particolarmente adatta all'edizione delle corrispondenze, poiché esse formano una rete di testi, persone, luoghi e temi. L'edizione digitale permette infatti di organizzare questa rete complessa e di visualizzare ed accedere in modo diretto e multiplo (attraverso una ricerca avanzata) ai documenti.
 Seguendo gli standard tecnici nel campo dell'edizione digitale, i documenti originali saranno trascritti e codificati. La codifica, in XML-TEI, fornisce al computer l'informazione da processare per strutturare i dati e in secondo luogo visualizzarli.
-Tutti i documenti saranno organizzati in una base-dati, a partire dalla quale sarà costruito un sito web; eXistDB è particolarmente adatto a questo scopo, trattandosi di una base-dati nativamente XML e al contempo di una piattaforma per costruire applicazioni web.
+
 
 ---
 
