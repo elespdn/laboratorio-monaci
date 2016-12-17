@@ -33,12 +33,12 @@ Altri materiali, per approfondire:
 - [Markup, XML, TEI](http://editio.github.io/slides/xml-tei#/portada), di José Luis Losada Palenzuela
 - [TEI By Example](http://teibyexample.org/)
 
-### Compiti (per martedì 29 novembre)
+### Compiti (per martedì 10 gennaio)
 
 - Seguire il tutorial [Setup Zotero](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione1/zotero-setup.md), per istallare Zotero, creare un account, diventare membro del gruppo Laboratorio Monaci e inserire un riferimento bibliografico.
 
 - Istallare oXygen al seguente indirizzo:
- [https://www.oxygenxml.com/xml_editor/download _oxygenxml _editor.html](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (la licenza per poter usare il programma gratuitamente per 120 giorni sarà comunicata al prossimo incontro)
+ [https://www.oxygenxml.com/xml_editor/download _oxygenxml _editor.html](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (la licenza per poter usare il programma gratuitamente per 90 giorni sarà comunicata al prossimo incontro)
 
 - Portare il proprio portatile al prossimo incontro
 
