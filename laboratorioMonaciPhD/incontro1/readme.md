@@ -37,6 +37,8 @@ Altri materiali, per approfondire:
 
 - Seguire il tutorial [Setup Zotero](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione1/zotero-setup.md), per istallare Zotero, creare un account, diventare membro del gruppo Laboratorio Monaci e inserire un riferimento bibliografico.
 
+- Preparare una domanda o un commento sulla presentazione [*An introduction to Markup, XML, TEI, and the oXygen XML editor*](https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/) di James Cummings
+
 - Istallare oXygen al seguente indirizzo:
  [https://www.oxygenxml.com/xml_editor/download _oxygenxml _editor.html](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (la licenza per poter usare il programma gratuitamente per 90 giorni sarà comunicata al prossimo incontro)
 

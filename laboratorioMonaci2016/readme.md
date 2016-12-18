@@ -27,7 +27,7 @@ Tirocinio/Altre attività - Laboratorio Monaci
 - Aula 2 Dipartimento di Studi Europei. Facoltà di Lettere, terzo piano 
 
 ### Programma 
-Si presenteranno la figura di Ernesto Monaci e i materiali raccolti nel suo epistolario. Si fornirà quindi un'introduzione alle tecniche di edizione elettronica. Ognuno dei partecipanti sceglierà un documento, ovvero una lettera in italiano o in un'altra lingua, sulla quale lavorare e eseguirà la trascrizione e la codifica, con il supporto dell'insegnante. I testi saranno poi raccolti e inseriti in una base-dati, a partire dalla quale sarà elaborata un'applicazione web, primo passo verso un'edizione completa dell'epistolario di Ernesto Monaci.
+Si presenteranno la figura di Ernesto Monaci e i materiali raccolti nel suo epistolario. Si fornirà quindi un'introduzione alle tecniche di edizione elettronica. Ognuno dei partecipanti sceglierà un documento, ovvero una lettera in italiano o in un'altra lingua, sulla quale lavorare e eseguirà la trascrizione e la codifica, con il supporto dell'insegnante.
 Il laboratorio sarà essenzialmente pratico, è aperto agli studenti di triennale, magistrale ed ai dottorandi, e non sono richieste competenze specifiche.
 
 ### Materiali

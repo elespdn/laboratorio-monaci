@@ -18,10 +18,10 @@ Incontri:
 - Giovedì 19 gennaio, 10h-12h
 
 ### Contatti
-[Dr. Elena Spadini] - (https://www.huygens.knaw.nl/elena-spadini/)  **elena.spadini@huygens.knaw.nl**
+[Dr. Elena Spadini](https://www.huygens.knaw.nl/elena-spadini/) -  **elena.spadini@huygens.knaw.nl**
 
 ### Programma 
-Si presenteranno la figura di Ernesto Monaci e i materiali raccolti nel suo epistolario. Si fornirà quindi un'introduzione alle tecniche di edizione elettronica. Ognuno dei partecipanti sceglierà un documento, ovvero una lettera in italiano o in un'altra lingua, sulla quale lavorare e eseguirà la trascrizione e la codifica. I testi saranno poi raccolti e inseriti in una base-dati, a partire dalla quale sarà elaborata un'applicazione web, primo passo verso un'edizione completa dell'epistolario di Ernesto Monaci.
+Si presenteranno la figura di Ernesto Monaci e i materiali raccolti nel suo epistolario. Si fornirà quindi un'introduzione alle tecniche di edizione elettronica. Ognuno dei partecipanti sceglierà un documento, ovvero una lettera in italiano o in un'altra lingua, sulla quale lavorare e eseguirà la trascrizione e la codifica. 
 
 ---
 
