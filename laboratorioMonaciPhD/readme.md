@@ -11,10 +11,10 @@ Attività didattica per il primo anno del Dottorato in Scienze del testo, curric
 
 Incontri:
 
-- Lunedì 19 dicembre, 15h-17h
-- Martedì 10 gennaio, 15h-17h
+- Martedì 20 dicembre, 15h-17h
+- Mercoledì 11 gennaio, 10h-12h
 - Giovedì 12 gennaio, 10h-12h
-- Martedì 17 gennaio, 15h-17h
+- Mercoledì 18 gennaio, 10h-12h
 - Giovedì 19 gennaio, 10h-12h
 
 ### Contatti

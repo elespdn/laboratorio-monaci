@@ -33,9 +33,9 @@ Altri materiali, per approfondire:
 - [Markup, XML, TEI](http://editio.github.io/slides/xml-tei#/portada), di José Luis Losada Palenzuela
 - [TEI By Example](http://teibyexample.org/)
 
-### Compiti (per martedì 10 gennaio)
+### Compiti (per martedì 20 dicembre)
 
-- Seguire il tutorial [Setup Zotero](https://github.com/elespdn/laboratorio-monaci/blob/master/lezione1/zotero-setup.md), per istallare Zotero, creare un account, diventare membro del gruppo Laboratorio Monaci e inserire un riferimento bibliografico.
+- Seguire il tutorial [Setup Zotero](https://github.com/elespdn/laboratorio-monaci/blob/master/laboratorioMonaciPhD/incontro1/zotero-setup.md), per istallare Zotero, creare un account, diventare membro del gruppo Laboratorio Monaci e inserire un riferimento bibliografico.
 
 - Preparare una domanda o un commento sulla presentazione [*An introduction to Markup, XML, TEI, and the oXygen XML editor*](https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/) di James Cummings
 
