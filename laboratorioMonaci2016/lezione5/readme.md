@@ -249,6 +249,25 @@ I fogli di stile in OxGarage permettono di trasformare un documento .xml in dive
 
 ---
 
+## Compiti finali
+
+Terminare la **codifica della lettera** (o delle lettere, opzionale). **Non è obbligatorio** aggiungere nessuno degli elementi presentati nell'ultima lezione (bibliografia, *choice*, *subst*, etc). 
+
+Cercate di ottenere dei documenti validi (quadratino verde).
+
+Se avete dubbi inseriteli come *commenti* nel documento stesso. Come si marca un commento? Così:
+	
+	<!-- questo è un commento. La macchina non lo legge, ma per gli umani è prezioso -->
+
+I commenti possono essere inseriti in qualsiasi punto del documento XML, metteteli vicino agli elementi che vi creano problemi, oppure all'inizio.
+
+La lettera codificata va inviata alla docente entro il 10 gennaio 2017.
+
+## Ricevimento
+
+L'ultimo ricevimento sarà martedì 10 gennaio, dalle 15h alle 17h, in Aula II. 
+
+
 ## Questionario sul corso
 
 Il questionario è anonimo. Da compilare entro giovedì 22 dicembre: <https://it.surveymonkey.com/r/MP7JSSV>

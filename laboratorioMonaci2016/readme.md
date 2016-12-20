@@ -38,6 +38,7 @@ Dr. Elena Spadini *elena.spadini@huygens.knaw.nl*<br/>Prof. Arianna Punzi *arian
 
 ### Ricevimento
 Prima della lezione. Contattare la docente per mail.
+Ultimo ricevimento: martedì 10 gennaio, 15h-17h, aula II.
 
 
 
