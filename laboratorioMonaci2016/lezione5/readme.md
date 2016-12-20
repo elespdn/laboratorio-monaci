@@ -2,13 +2,16 @@
 
 martedì 20 dicembre 2016
 
-- controllo originali
-- codifica bibliografia
-- visualizzazione XML-TEI
+- Controllo sugli originali
+- Codifica della bibliografia
+- Trascrizioni e interventi editoriali
+- Separazione contenuto e visualizzazione
+- Muoversi all'interno di un documento XML: XPATH
+- Questionario sul corso
 
 ---
 
-### Task 1 
+## Controllo sugli originali
 
 Nel catalogo del fondo (Calzolari 2005), controlliamo il numero della busta in cui è contenuta la lettera.
 
@@ -47,7 +50,7 @@ Sul documento originale controlliamo (10 minuti per ognuno):
 
 ---
 
-### Codifica della bibliografia e collegamento dei titoli nel testo
+## Codifica della bibliografia e collegamento dei titoli nel testo
 
 Nel testo della lettera ci sono riferimenti a libri, riviste, articoli e manoscritti. La bibliografia relativa alla lettera troverà posto in una sezione specifica del documento *.xml*. Una delle soluzioni possibili è inserire la bibliografia nel < back >, all'interno di un < div > con @type="bibl". Vediamolo:
 
@@ -102,7 +105,7 @@ All'interno di < listBibl > possiamo inserire la bibliografia vera e propria.
 
 **Nota**: < biblStruct > è un'alternativa, più ricca e strutturata, di < bibl >. Entrambe sono valide e possono coesistere all'interno di una lista di fonti bibliografiche, ovvero all'interno di < listBibl >. 
 
-#### Collegamento tra il testo della lettera e la Bibliografia
+### Collegamento tra il testo della lettera e la Bibliografia
 
 Come già abbiamo visto nella scorsa lezione per [i nomi e i metadati](https://github.com/elespdn/laboratorio-monaci/tree/master/laboratorioMonaci2016/lezione4#collegare-nomi-e-metadata), sarà necessario collegare la menzione della bibliografia nel testo della lettera alla descrizione bibliografica.
 
@@ -136,8 +139,55 @@ Una lettera codificata si trova [qui](18731122monaci_ascoli.xml).
 
 ---
 
+## Trascrizioni e interventi editoriali
 
-### Separazione contenuto e visualizzazione
+Nella codifica della trascrizione di un documento, potremmo essere interessati a segnalare aggiunte, cancellature, note a margine, etc.; e in alcuni casi potremmo voler intervenire, normalizzando l'ortografia, correggendo un errore evidente, etc.
+
+I principali elementi che servono per questo tipo di codifica sono presentati, con esempi, nelle slides [*Transcription and Editorial Interventions*](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/Talks/3-transcription-and-criticapp.pdf) (di cui l'ultima parte, dedicata all'apparato critico, potete saltarla per ora). Qui sotto trovate un riepilogo degli stessi elementi.
+
+### *Add*, *Del* e *Subst*: aggiunte e cancellature nell'originale
+
+Se nel documento originale sono presenti aggiunte o cancellature, possiamo codificarle utilizzando gli elementi < add > e < del >.
+
+- **< add >**, vd. [descrizione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-add.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-add.html) nelle Guidelines
+- **< del >**, vd. [descrizione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-del.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-del.html) nelle Guidelines
+
+Quando la cancellatura e l'aggiunta sono contestuali, ovvero quando ad una cancellatura corrisponde un'aggiunta, i due elementi possono essere raccolti all'interno dell'elemento < subst >
+
+- **< subst >**, vd. [descrizione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-subst.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-subst.html) nelle Guidelines 
+
+### *Choice*: scioglimento delle abbreviazioni, correzioni e normalizzazioni dell'editore
+
+L'elemento **< choice >** si utilizza in tutti quei casi nei quali abbiamo due forme concorrenti che vogliamo visualizzare, non insieme, ma o una o l'altra. Ad esempio, nel caso di un'abbreviazione, vorremmo visualizzare la forma abbreviata o la forma sciolta (magari la forma abbreviata direttamente nel testo e la forma sciolta che appare in un rettangolo quando ci passiamo sopra con il mouse, o in una nota).
+
+Le abbreviazioni possono essere codificate tramite l'elemento < abbr >. Se si vuole indicare anche lo scioglimento dell'abbreviazione, si utilizza l'elemento < expan > e i due elementi (< abbr > e < expan >) vanno racchiusi nell'elemento < choice >. 
+
+- **< abbr >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-abbr.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-abbr.html) nelle Guidelines
+- **< expan >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-expan.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-expan.html) nelle Guidelines
+- **< choice >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-choice.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-choice.html) nelle Guidelines
+
+Nel caso di un errore evidente, esso può essere segnalato con l'elemento < sic > e corretto con l'elemento < corr >. Quando sono presenti entrambi, andranno racchiusi nell'elemento < choice >.
+
+- **< sic >** e **< corr >**. Cercare gli elementi nelle Guidelines: <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/> (utilizzare il campo di ricerca in alto a sinistra!). Una volta che siete all'interno della dichiarazione dell'elemento, ad esempio [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sic.html), scorrete la pagina per arrivare agli esempi. Per vedere altri esempi, cliccate su *Show all*.
+
+Nel caso in cui volessimo modernizzare l'ortografia o fare un altro intervento di normalizzazione, si possono usare gli elementi < orig >, per codificare la forma originale, e  < reg >, per quella normalizzata. Nelle nostre lettere, ad esempio, si trova la forma *Jeri* per *Ieri*. Se decidessimo di modernizzarla, potremmo codificare nel modo seguente:
+
+	<choice><orig>Jeri</orig><reg>Ieri</reg></choice> ho letto il tuo libro ...
+
+- **< orig >** e **< reg >**. Cercare gli elementi nelle Guidelines: <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/> (utilizzare il campo di ricerca in alto a sinistra!). Una volta che siete all'interno della dichiarazione dell'elemento, ad esempio [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-reg.html), scorrete la pagina per arrivare agli esempi. Per vedere altri esempi, cliccate su *Show all*.
+
+---
+
+### Citazioni
+
+Se all'interno del testo compaiono citazioni, passaggi riportati, passaggi di testo che appartengono ad un altro testo, si possono codificare con l'elemento < quote >.
+
+- **< quote >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-quote.html) nelle Guidelines
+
+
+---
+
+## Separazione contenuto e visualizzazione
 Torniamo su un concetto chiave, menzionato nella prima lezione: la separazione tra contenuto e visualizzazione.
 
 Editori di testo come Word sono di tipo **WYSIWYG** (*what you see is what you get*), ovvero nella gestione del testo all'interno dell'editore decidiamo come quel testo sarà presentato, ad esempio cambiando la grandezza del font, mettendo una parola in corsivo, aggiungendo spazi bianchi.
@@ -177,7 +227,7 @@ I fogli di stile in OxGarage permettono di trasformare un documento .xml in dive
 
 ---
 
-### Muoversi all'interno di un documento XML: XPATH
+## Muoversi all'interno di un documento XML: XPATH
 
 - [Tutorial XPATH](http://www.w3schools.com/xml/xpath_intro.asp), da *w3schools.com*
 - Le espressioni XPATH possono essere testate nella finestra 'XPath 2.0' (dove c'è scritto Execute XPath on current file) in alto a sinistra in oXygen. I risultati saranno evidenziati nel documento e appariranno in una finestra in basso. Alcuni esempi:
@@ -196,6 +246,12 @@ I fogli di stile in OxGarage permettono di trasformare un documento .xml in dive
 	- Per selezionare tutti i < persName > nella lettera, scrivere 
 				
 			//persName
+
+---
+
+## Questionario sul corso
+
+Il questionario è anonimo. Da compilare entro giovedì 22 dicembre: <https://it.surveymonkey.com/r/MP7JSSV>
 
 
 
