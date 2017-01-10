@@ -5,11 +5,6 @@ martedì 6 dicembre 2016
 - correzione
 - import utilizzando plugin browser
 - export come bibliografia e in TEI (vd. [tutorial](zotero_export.md))
-
-### TEI Guidelines
-- moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
-- schema, vd. tutorial su [ODD e Schema](schema.md)
-- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
 	
 ### Intro a 
 - Monaci
