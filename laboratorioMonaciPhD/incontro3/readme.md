@@ -1,5 +1,5 @@
-# Lezione 3
-martedì 6 dicembre 2016
+# Incontro 3
+mercoledì 11 gennaio 2017
 
 ### Zotero 
 - correzione
