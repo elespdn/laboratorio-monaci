@@ -16,17 +16,6 @@ martedì 20 dicembre 2016
 - 1881 *Romanische Forschungen* di Vollmöller
 - 1883 *Giornale Storico della Letteratura Italiana* di Graf, Renier e poi di Navati
 
-### Monaci e ...
-- la conversione letteraria
-- la didattica
-- gli allievi
-- i dialetti
-- il teatro
-- l'Archivio Paleografico Latino
-- l'Istituto Storico Italiano
-- corrispondenti
-
-
 ### Da fare (per mercoledì 11 gennaio)
 
 Preparare una breve presentazione sul corrispondente di Monaci (Mussafia o Rajna).

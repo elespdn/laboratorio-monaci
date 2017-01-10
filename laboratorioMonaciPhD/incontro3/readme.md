@@ -4,20 +4,29 @@ martedì 6 dicembre 2016
 ### Zotero 
 - correzione
 - import utilizzando plugin browser
+- export come bibliografia e in TEI (vd. [tutorial](zotero_export.md))
 
 ### TEI Guidelines
 - moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
 - schema, vd. tutorial su [ODD e Schema](schema.md)
 - guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
 	
-### Intro a ..
+### Intro a 
+- Monaci
+	- la conversione letteraria
+	- la didattica
+	- gli allievi
+	- i dialetti
+	- il teatro
+	- l'Archivio Paleografico Latino
+	- l'Istituto Storico Italiano
+	- corrispondenti
 - Meyer e Romania, vd. [scheda](meyer_romania.md)
-- Mussafia
-- Rajna
+- Mussafia (Maria Teresa Prota)
+- Rajna (Ilaria Lavorato)
 
 ### Codifica delle lettere: metadati e struttura del testo
 - Vd. slides [*TEI for Correspondence*](https://drive.google.com/file/d/0B_1qUxvG29kvekJDZzQzZ1JZT0E/view) (DHOxSS 2016), di Sabine Seifert e Peter Stadler
-- guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
 
 ### Codifica delle lettere: named entities
 Vd. slides [*Encoding Names, People, Places and
@@ -38,7 +47,7 @@ Dates*](http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/Talks/4-name-place-date.pdf)
 - [visual correspondence - Analysing Letters through Data Visualisation](http://letters.nialloleary.ie/)
 - [Encyclopedia of Romantic Nationalism in Europe](http://romanticnationalism.net/viewer.p/21/59)
 
-### Compiti per martedì 13 dicembre
+### Per giovedì 12 gennaio
 #### 1
 Codificare la propria lettera. Come?
 
@@ -47,6 +56,7 @@ Codificare la propria lettera. Come?
 - cancellare il paragrafo < p > all'interno del < body > e sostituirlo con un < div >
 - all'interno del < div > incollare il testo della lettera
 - codificare il testo, seguendo i materiali del corso e l'esempio di una [lettera  già codificata](18731122-monaci-ascoli.xml)
+- codificare il metadati, seguendo i materiali del corso e l'esempio della stessa [lettera  già codificata](18731122-monaci-ascoli.xml)
 - salvare il file
 - copiarlo su una pennetta USB
 
