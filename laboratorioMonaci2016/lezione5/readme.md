@@ -23,17 +23,17 @@ Sul documento originale controlliamo (10 minuti per ognuno):
 		Non c'è più spazio su questo foglio quindi passo <pb/>al seguente.
 
 - maiuscole, accenti e punteggiatura
-- sottolineature, da codificare con l'elemento **< hi >** (*highlight*) e l'attributo **@type** con valore **"underlined"**. Esempio:
+- sottolineature, da codificare con l'elemento **< hi >** (*highlight*) e l'attributo **@rend** con valore **"underlined"**. Esempio:
 
-		La nostra <hi type="underlined">Rivista di filologia romanza</hi> sarà pubblicata a breve.
+		La nostra <hi rend="underlined">Rivista di filologia romanza</hi> sarà pubblicata a breve.
 
-- nel caso in cui ci siano altri tipi di evidenziatura, codificarli con **< hi >** e l'attributo **@type** con valore "evidenziato" o altro più appropriato. Esempio:
+- nel caso in cui ci siano altri tipi di evidenziatura, codificarli con **< hi >** e l'attributo **@rend** con valore "evidenziato" o altro più appropriato. Esempio:
 		
-		Ci sono due parole scritte più grandi: <hi type="grande">la nostra Rivista</hi>; poi il testo continua.
+		Ci sono due parole scritte più grandi: <hi rend="grande">la nostra Rivista</hi>; poi il testo continua.
 
-- lettere in apice, da codificare con **< hi >** e l'attributo **@type** con valore **"sup"**. Esempio:
+- lettere in apice, da codificare con **< hi >** e l'attributo **@rend** con valore **"sup"**. Esempio:
 
-		V<hi type="sup">a</hi> excelencia
+		V<hi rend="sup">a</hi> excelencia
 
 - Correzioni, cancellature, aggiunte. Da segnare a parte.
 - **Opzionale**: a capo **< lb >** (*line breaks*). **Non** bisogna lasciare uno spazio bianco dopo l'elemento. Esempio:
@@ -183,6 +183,10 @@ Nel caso in cui volessimo modernizzare l'ortografia o fare un altro intervento d
 Se all'interno del testo compaiono citazioni, passaggi riportati, passaggi di testo che appartengono ad un altro testo, si possono codificare con l'elemento < quote >.
 
 - **< quote >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-quote.html) nelle Guidelines
+
+Confronta con l'elemento < q >:
+
+- **< q >**, vd. [dichiarazione](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-q.html) e [esempi](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-q.html) nelle Guidelines
 
 
 ---
