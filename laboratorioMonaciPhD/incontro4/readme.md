@@ -32,6 +32,14 @@ Sul documento originale controlliamo (10 minuti per ognuno):
 
 		Questa è la prima riga, <lb/>questa è la seconda, <lb/>poi la terza <lb/>etc.
 
+
+## TEI Guidelines: moduli, schema, elementi
+- moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
+- schema, vd. tutorial su [ODD e Schema](schema.md)
+- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
+- guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
+
+
 ## Metadata su persone, luoghi, organizzazioni
 
 Nel < teiHeader > possiamo inserire metadata sulle persone, sui luoghi e sulle organizzazioni menzionati nel testo. Dove? Nel **< profileDesc>** (dopo il < fileDesc >). All'interno del < profileDesc > inseriamo **< particDesc >** per le persone e le organizzazioni, e **< settingDesc >** per i luoghi. 
