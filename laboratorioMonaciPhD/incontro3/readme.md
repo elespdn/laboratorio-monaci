@@ -56,10 +56,4 @@ Codificare la propria lettera. Come?
 - copiarlo su una pennetta USB
 
 #### 2
-Controllare e se necessario cambiare le informazioni inserite nel [gDoc](https://docs.google.com/document/d/1a3w2RD7FX7GnFAryNSVaasCrAWV5DQj_bd0IqmV2Wt4/edit):
-
-- sezione TAG, immaginando che esse siano le parole chiave che permetteranno la ricerca delle lettere in una base-dati o sito web
-- sezione ALTRE INFO, inserendo persone, luoghi, istituzioni, titoli e date che si codificano
-
-#### 3
-Correggere entrate in Zotero, se necessario.
+- [visual correspondence - Analysing Letters through Data Visualisation](http://letters.nialloleary.ie/). Qual'è la migliore visualizzazione?
