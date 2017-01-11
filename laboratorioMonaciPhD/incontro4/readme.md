@@ -7,7 +7,7 @@ Giovedì 12 gennaio 2017
 
 Nel catalogo del fondo (Calzolari 2005), controlliamo il numero della busta in cui è contenuta la lettera.
 
-Sul documento originale controlliamo (10 minuti per ognuno):
+Sul documento originale controlliamo:
 
 - trascrizione
 - cambi di pagina **< pb / >** (*page breaks*). **Attenzione!** si tratta di un elemento vuoto, quindi invece di avere un tag che apre e uno che chiude, ne avremo uno solo, con la barra dopo il nome. **Non** bisogna lasciare uno spazio bianco dopo l'elemento. Esempio:
