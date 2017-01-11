@@ -6,8 +6,8 @@ Giovedì 12 gennaio 2017
 ## TEI Guidelines: moduli, schema, elementi
 - schema, vd. tutorial su [ODD e Schema](schema.md)
 - moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
-- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
 - guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
+- guardiamo da vicino un elemento e la relativa documentazione: < hi > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html)
 
 ## Controllo sugli originali
 
