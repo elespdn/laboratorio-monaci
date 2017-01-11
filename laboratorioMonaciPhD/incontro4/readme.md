@@ -3,6 +3,12 @@
 Giovedì 12 gennaio 2017
 
 
+## TEI Guidelines: moduli, schema, elementi
+- schema, vd. tutorial su [ODD e Schema](schema.md)
+- moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
+- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
+- guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
+
 ## Controllo sugli originali
 
 Nel catalogo del fondo (Calzolari 2005), controlliamo il numero della busta in cui è contenuta la lettera.
@@ -31,14 +37,6 @@ Sul documento originale controlliamo:
 - **Opzionale**: a capo **< lb >** (*line breaks*). **Non** bisogna lasciare uno spazio bianco dopo l'elemento. Esempio:
 
 		Questa è la prima riga, <lb/>questa è la seconda, <lb/>poi la terza <lb/>etc.
-
-
-## TEI Guidelines: moduli, schema, elementi
-- moduli, vd. slide [Intro TEI](https://elespdn.github.io/talks/labMonaci1-xmlTei.html#/17) della prima lezione
-- schema, vd. tutorial su [ODD e Schema](schema.md)
-- guardiamo da vicino un elemento e la relativa documentazione: < author > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)
-- guardiamo da vicino un elemento e la relativa documentazione: < opener > [qui](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
-
 
 ## Metadata su persone, luoghi, organizzazioni
 

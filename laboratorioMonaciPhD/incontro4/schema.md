@@ -63,7 +63,7 @@ Si noterà che il quadratino verde diventerà rosso: c'è qualche problema! Qual
 
 Uno schema permette di dare consistenza alla codifica, all'interno di un documento o tra più di uno, definendo gli elementi e gli attributi da utilizzare e le loro reciproche posizioni. Definire lo schema è dunque un compito fondamentale per un progetto che preveda la codifica in XML di documenti.
 
-Come abbiato visto, la TEI offre uno strumento per la creazione di schemi, Roma. Ma prima ancora della questione tecnica, bisognerà interrogarsi su **cosa e come** si vuole codificare, definire quindi formalmente quelle istruzioni per la codifica che poi potranno essere codificate nello schema.
+Come abbiato visto, la TEI offre uno strumento per la creazione di schemi, [Roma](http://www.tei-c.org/Roma/). Ma prima ancora della questione tecnica, bisognerà interrogarsi su **cosa e come** si vuole codificare, definire quindi formalmente quelle istruzioni per la codifica che poi potranno essere codificate nello schema.
 
 
 
