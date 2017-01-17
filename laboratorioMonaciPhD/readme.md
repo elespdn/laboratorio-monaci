@@ -15,8 +15,8 @@ Incontri:
 - Martedì 20 dicembre, 15h-17h
 - Mercoledì 11 gennaio, 10h-12h
 - Giovedì 12 gennaio, 10h-12h
-- Mercoledì 18 gennaio, 10h-12h
-- Giovedì 19 gennaio, 10h-12h
+- Mercoledì 18 gennaio, 10h-13h
+- Giovedì 19 gennaio, 11h30-12h
 
 ### Contatti
 [Dr. Elena Spadini](https://www.huygens.knaw.nl/elena-spadini/) -  **elena.spadini@huygens.knaw.nl**
