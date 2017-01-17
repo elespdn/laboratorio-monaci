@@ -1,0 +1,162 @@
+
+
+TEI {
+    display: block;
+    /* Look at the values that the property Display can take:
+    Property values at http://www.w3schools.com/cssref/pr_class_display.asp  */
+    
+    padding:3%
+    /* Padding is the white space inside the border, while Margin is the white space outside the border.
+    You can see it here   http://www.w3schools.com/css/css_boxmodel.asp */
+    /* Info on Padding   http://www.w3schools.com/css/css_padding.asp */
+    /* TRY TO CHANGE: set the padding to '10%' or reduce it as you want*/
+}
+
+
+
+titleStmt>title {
+    display: block;
+    font-size: 200%;
+    /* All information about Fonts (family, style, size, weight, variant) at
+    http://www.w3schools.com/css/css_font.asp */
+}
+
+respStmt>resp {
+    font-weight: bold;
+}
+respStmt>resp::after {
+    content: ": ";
+}
+respStmt>persName::after {
+    content: ".";
+}
+
+
+publicationStmt {
+    display:none
+    /* 'none' is one of the option of the display property. It means that the content of <publicationStmt> will not be visualized */
+    /* TRY TO CHANGE: set the display to 'block' instead of 'none' */
+}
+
+sourceDesc>p::before {
+    content: "Origine: ";
+    font-weight: bold;
+}
+
+
+correspAction[type=sent]::before {
+    display: block;
+    content: "Mittente: ";
+    font-weight: bold;
+}
+
+correspAction[type=sent]>persName::after {
+    content: ", ";
+}
+
+correspAction[type=sent]>placeName::after {
+    content: ", ";
+}
+
+correspAction[type=sent]>date {
+    display: inline;
+}
+correspAction[type=sent]>date::after {
+    content: ". ";
+}
+
+correspAction[type=received]::before {
+    display: block;
+    content: "Destinatario: ";
+    font-weight: bold;
+}
+
+correspAction[type=received]>persName::after {
+    content: ". ";
+}
+
+particDesc, settingDesc {
+    display: none;
+}
+
+
+
+
+
+
+/* Here we are setting some properties for the <div>.
+Remember that this will apply to all <div>; in the sample XML-TEI doc there are two <div>.
+We will see below how to set properties for a specific <div>  */
+div {
+    display:block;
+    
+    border:1px solid grey;
+    /* setting a border is useful to visualize the block on which you are working on.
+    You can set it temporarely while you are writing the css and then delete it */
+    /* TRY TO CHANGE: set the border width to '5px' instead of '1px' */
+    /* Info about Border at   http://www.w3schools.com/cssref/pr_border.asp  */
+        
+    width:80%;
+    /* This indicates the width of the block (it would not work if the Display property was on Inline)  */
+    /* There is NO need to specify the width, unless you are not happy with the default value */
+    /* TRY TO CHANGE: delete the Width property or change its value.
+    You will understand now why it is important to set Borders while working.
+    Remember that setting the width may create problems when displaying on bigger or smaller screen  */
+        
+    margin-top:30px;
+    /* The margin property indicates the margin (outside the border) of the element.
+    Margin can be set to all sides (right, left, top, bottom) or to one of those */
+    /* TRY TO CHANGE: set the margin-top to '60px' instead of '30px' */
+    /* TRY TO CHANGE: set all margins to '30px'. Instead of 'margin-top:30px' write 'margin:30px' */
+    /* TRY TO CHANGE: set left margin to '30px'. Instead of 'margin-top:30px' write 'margin-left:30px' */
+    /* Info about Margin at   http://www.w3schools.com/cssref/pr_margin.asp   */
+        
+    background-color: #FCF2FA;
+    /* How to specify a color?
+    You can start using one of the 140 predefined names here  http://www.w3schools.com/colors/colors_names.asp
+    Have a look at the methods here for more possibilites   http://www.w3schools.com/cssref/css_colors_legal.asp  
+    */
+    
+    padding: 20px;
+}
+
+addrLine {
+    display:inline;
+    /* TRY TO CHANGE: set the display to 'inline' instead of 'block' */
+}
+
+
+
+p, opener, closer, salute, signed {
+    display:block
+    /* TRY TO CHANGE: set the display to 'inline' instead of 'block' */
+}
+
+p>title {
+    font-style: italic;
+}
+
+expan {
+    display: none;
+}
+
+abbr {
+    color: DarkGrey;
+}
+
+abbr:hover::after {
+    content:" [obbligatissimo]";
+    color: blue;
+}
+/* Per usare variabili in css, passare a .less o .sass */
+
+
+/*  TRY TO CHANGE:
+- Delete the Border of all <div>s
+- Add a property Padding to all <div>s
+- Set a different background-color for the <div type="postalData"> and for the <div type="original">.
+You may need to remove the background-color from the properties applied to ALL div. And to to apply properties to specific <div>s.
+- Apply property only to the <sponsor> element (it is now together with <editor>).
+*/
+
+
