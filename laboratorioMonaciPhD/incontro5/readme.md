@@ -70,10 +70,10 @@ Nel caso in cui volessimo modernizzare l'ortografia o fare un altro intervento d
 
 ---
 
----
-
 
 ## Metadata su persone, luoghi, organizzazioni
+
+Quanto segue si trova nel file TEI di esempio [18731122-monaci-ascoli-nomi.xml](18731122-monaci-ascoli-nomi.xml).
 
 Nel < teiHeader > possiamo inserire metadata sulle persone, sui luoghi e sulle organizzazioni menzionati nel testo. Dove? Nel **< profileDesc>** (dopo il < fileDesc >). All'interno del < profileDesc > inseriamo **< particDesc >** per le persone e le organizzazioni, e **< settingDesc >** per i luoghi. 
 
@@ -134,7 +134,9 @@ Da ricordare:
 
 - ogni < person > deve avere un attributo **@xml:id**. Il valore dell'@xml:id non può cominciare con un numero. Per convenzione, diamo come valore le iniziali della persona.
 - utilizzare l'attributo **@when** sugli elementi < birth > e < death >.
-- assegnare un identificatore tramite un controllo di autorità per ogni persona, con l'elemento **< idno >**. In particolare, utilizziamo l'identificatore del VIAF. VIAF (Virtual International Authority File) è un catalogo per il controllo di autorità, gestito da diverse biblioteche del mondo. Per maggiorni informazioni, vd. <https://it.wikipedia.org/wiki/Controllo_di_autorit%C3%A0> e <http://www.oclc.org/viaf.en.html>
+- assegnare un identificatore tramite un controllo di autorità per ogni persona, con l'elemento **< idno >**. In particolare, utilizziamo due identificatori:
+	- quello italiano di SBN elaborato dall'ICCU: Voci di autorità <http://opac.sbn.it/opacsbn/opac/iccu/authority.jsp?db=solr_auth>
+	- quell di VIAF. VIAF (Virtual International Authority File) è un catalogo per il controllo di autorità, gestito da diverse biblioteche del mondo. Per maggiorni informazioni, vd. <https://it.wikipedia.org/wiki/Controllo_di_autorit%C3%A0> e <http://www.oclc.org/viaf.en.html>
 
 
 ### Codifica di luoghi
