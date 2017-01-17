@@ -218,7 +218,7 @@ I fogli di stile in OxGarage permettono di trasformare un documento .xml in dive
 
 - [TEI Boilerplate](http://dcl.ils.indiana.edu/teibp/)
 - [CETEIcean](http://teic.github.io/CETEIcean/)
-- [TEI Publisher](http://tei-publisher.com/index.html)
+- [TEI Publisher](http://tei-publisher.com/index.html), che include una base-dati quindi permette di effettuare ricerche.
 
 ---
 
