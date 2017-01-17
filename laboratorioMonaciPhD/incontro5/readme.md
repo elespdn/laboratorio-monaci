@@ -212,7 +212,7 @@ Cosa c'è dietro, che rende possibile questa trasformazione?
 
 Nel caso di oXygen, ci sono dei fogli di stile XSLT, che contengono istruzioni su come processare i singoli elementi della codifica TEI. Nel foglio di stile .xslt sarà specificato, ad esempio, che l'elemento < title > diventerà un elemento < h1 > (*heading 1*) nel documento .html di output; o che l'elemento < corr > sarà trasformato nell'elemento < span > (generica porzione di testo) con stile associato *color:red*.
 
-La Text Encoding Initiative (TEI) mette a disposizione numerosi fogli di stile di tipo XSLT, per trasformare i documenti .xml in altri formati. Un elenco si trova nella repository [OxGarage](http://www.tei-c.org/oxgarage/).
+La Text Encoding Initiative (TEI) mette a disposizione numerosi fogli di stile di tipo XSLT, per trasformare i documenti .xml in altri formati. Un elenco si trova nell'applicazione [OxGarage](http://www.tei-c.org/oxgarage/).
 
 I fogli di stile in OxGarage permettono di trasformare un documento .xml in diversi formati. Se ciò che ci interessa è esclusivamente produrre un documento da visualizzare nel web, sono disponibili altre soluzioni promosse dalla TEI. Ad esempio
 
