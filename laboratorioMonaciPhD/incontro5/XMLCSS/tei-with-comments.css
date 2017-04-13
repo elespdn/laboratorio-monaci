@@ -134,6 +134,7 @@ p, opener, closer, salute, signed {
 
 p>title {
     font-style: italic;
+    color: red;
 }
 
 expan {

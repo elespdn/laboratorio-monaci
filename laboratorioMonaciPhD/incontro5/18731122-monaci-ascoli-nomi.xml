@@ -87,6 +87,7 @@
                         </death>
                         <!-- <http://viaf.org/> -->
                         <idno type="VIAF">64080350</idno>
+                        <idno type="SBN">736482928</idno>
                     </person>
                     <person xml:id="GIA">
                         <persName>
@@ -204,13 +205,13 @@
                     prima. Pel 4° della <title>Rivista</title> preparo una notizia particolareggiata
                     di questo codice e ne darò dei saggi. Jeri soltanto ho potuto avere l’indirizzo
                     del sig. <persName ref="#JC">J. Cornu</persName>, che Ella desiderava
-                    conoscere. Esso è a '<address>
+                    conoscere. Esso è a '<address> 
                         <addrLine>Villars-Mendraz près Sottens Canton de Vaud.</addrLine>
                         <addrLine>Suisse</addrLine>
                     </address>'.</p>
                 <closer><salute>Gradisca, mio signore, la protesta sincera della mia devozione e del
                         mio ossequio. Suo obblmo servo</salute>
-                    <signed><persName ref="#EM">Ernesto Monaci</persName></signed></closer>
+                    <signed><persName ref="#EM">E. M.</persName></signed></closer>
             </div>
         </body>
     </text>
